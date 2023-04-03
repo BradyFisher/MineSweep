@@ -6,7 +6,7 @@ This Project contains MTile class, Mine class, MBoard class, GameGUI class, and 
 The **Mtile** class represents a tile on the board.<br />
 The **Mine** class represents a mine on the board.<br />
 The **MBoard** class represents a Full Mine Sweep board.<br />
-The **Game** GUI class builds the Graphical User Interface for the game.<br />
+The **Game GUI** class builds the Graphical User Interface for the game.<br />
 The **MGame** class runs the game.
 
 ## Mine Sweep Game Definition
