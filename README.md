@@ -13,7 +13,7 @@ The **MGame** class runs the game.
 Mine Sweep is a game where the player has to clear a minefield without detonating any hidden mines. 
 The game board is divided into a grid of tiles, and some of these tiles contain mines that must be avoided.
 
-The player starts by designating a tile to overturn and the number revealed indicates the number of mines in the adjacent tiles. If a tile is safe, the player can keep clicking on adjacent tiles until all non-mine tiles are revealed. However, if a square containing a mine is clicked, the game is lost.
+The player starts by designating a tile to overturn and the number revealed indicates the number of mines in the adjacent tiles. If a tile is safe, the player can keep clicking on adjacent tiles until all non-mine tiles are revealed. However, if a tile containing a mine is clicked, the game is lost.
 
 To help the player, flags can be placed on tiles believed to contain mines to prevent accidentally clicking on them. The game is won when all non-mine tiles have been cleared.
 
