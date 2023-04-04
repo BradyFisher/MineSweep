@@ -8,7 +8,7 @@ The **Mine** class represents a mine on the board.<br />
 The **MBoard** class represents a Full Mine Sweep board.<br />
 The **Game GUI** class builds the Graphical User Interface for the game.<br />
 The **MGame** class runs the game.<br />
-I have also included 3 screenshots of the GUI of the game. A screenshot of the game when it is started (MineSweepStart). A screenshot of the game when you loss the game (MineSweepLoss). A screenshot of the game when you win (MineSweepWin). 
+I have also included 3 screenshots of the GUI of the game. A screenshot of the game when it is started (**MineSweepStart**). A screenshot of the game when you loss the game (**MineSweepLoss**). A screenshot of the game when you win (**MineSweepWin**). 
 
 ## Mine Sweep Game Definition
 Mine Sweep is a game where the player has to clear a minefield without detonating any hidden mines. 
