@@ -18,4 +18,4 @@ The player starts by designating a tile to overturn and the number revealed indi
 
 To help the player, flags can be placed on tiles believed to contain mines to prevent accidentally clicking on them. The game is won when all non-mine tiles have been cleared.
 
-The game can be run with 3 board sizes: small(10 x 10 grid; 14 mines), medium(14 x 14 grid; 35 mines) and large(19 x 19 grid; 75 mines).
+The game can be run with 3 board sizes: small(10 x 10 grid; 14 mines), medium(14 x 14 grid; 35 mines) and large(19 x 19 grid; 75 mines). 
